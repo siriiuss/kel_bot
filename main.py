@@ -63,8 +63,8 @@ class Paginator(discord.ui.View):
 
 bot = discord.Bot(intents=discord.Intents.all())
 
-ip = 'GAME-DE-04.MTXSERV.COM'
-port = '27030'
+ip = '167.71.41.174'
+port = '25565'
 request_url = f'https://api.mcsrvstat.us/2/{ip}:{port}'
 
 
